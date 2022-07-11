@@ -1,2 +1,2 @@
 # Derainer
-A derain net
+A repo for derainer
